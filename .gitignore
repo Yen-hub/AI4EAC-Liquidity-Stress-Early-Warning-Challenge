@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.log
+*.mmap
+*.npy
+
+artifacts/
+artifacts_*/
+artifacts_async/
+artifacts_cb_*/
+artifacts_cv3/
+artifacts_new_rankers/
+artifacts_tabicl/
+artifacts_tabicl_fast/
+
+About.txt
